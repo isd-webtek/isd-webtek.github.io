@@ -1,0 +1,60 @@
+section.txy-topicbar > section.txy-topicbar-views {
+  max-width: 65em;
+}
+
+section.txy-topicbar > input[type="radio"] {
+  left: -200vw;
+  position: absolute;
+}
+
+section.txy-topicbar > section.txy-topicbar-views > section.txy-topicbar-view {
+  display: none;
+}
+
+section.txy-topicbar > section.txy-topicbar-views > section.txy-topicbar-view > h4 {
+  border-bottom-width: 2px;
+  border-radius: .25em;
+  border-top: 1px solid #eee;
+  display: inline-block;
+  font-family: arial;
+  padding: .5em;
+}
+
+section.txy-topicbar > input:first-child:checked ~ section.txy-topicbar-views > section.txy-topicbar-view:first-child,
+section.txy-topicbar > input:nth-child(3):checked ~ section.txy-topicbar-views > section.txy-topicbar-view:nth-child(2),
+section.txy-topicbar > input:nth-child(5):checked ~ section.txy-topicbar-views > section.txy-topicbar-view:nth-child(3),
+section.txy-topicbar > input:nth-child(7):checked ~ section.txy-topicbar-views > section.txy-topicbar-view:nth-child(4),
+section.txy-topicbar > input:nth-child(9):checked ~ section.txy-topicbar-views > section.txy-topicbar-view:nth-child(5),
+section.txy-topicbar > input:nth-child(11):checked ~ section.txy-topicbar-views > section.txy-topicbar-view:nth-child(6) {
+  display: block;
+}
+
+section.txy-topicbar > label {
+  display: inline-block;
+  color: #eee;
+  cursor: pointer;
+}
+
+section.txy-topicbar--nav > label {
+  border-bottom: .1em solid transparent;
+  font-weight: 600;
+  padding: .5em 1em;
+  position: relative;
+  text-align: center;
+  width: 68px;
+}
+
+section.txy-topicbar--nav > label:before {
+  color: #aaa;
+  content: "# ";
+  font-size: 10px;
+}
+
+section.txy-topicbar > label:hover {
+  color: #eee;
+}
+
+section.txy-topicbar > input:checked + label {
+  animation: background-colors 600s linear infinite alternate;
+  background-color: transparent !important;
+}
