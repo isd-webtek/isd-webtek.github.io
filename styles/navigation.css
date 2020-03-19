@@ -20,7 +20,7 @@
 }
 
 #navigation input:checked + label {
-  color: #aaa;
+  color: #607d8b;
   font-weight: 900;
 }
 
