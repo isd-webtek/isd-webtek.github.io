@@ -1,0 +1,79 @@
+section.card ul.lineup {
+  font: 14px arial;
+  background-color: rgba(0, 0, 0, 0.75); 
+}
+
+section.card ul.lineup {
+  color: #eee;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 30px;
+  display: block;
+}
+
+section.card ul.lineup li {
+  list-style: none;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+section.card ul.lineup li.artist-name {
+  text-shadow: 1.5px 1.5px #eee;
+  font-size: 60px;
+  padding: 10px 0;
+  animation: background-colors 30s linear infinite alternate;
+  background-color: transparent !important;
+}
+
+section.card ul.lineup li.artist-name:nth-child(1) {
+  animation-delay: -3s;
+}
+
+section.card ul.lineup li.artist-name:nth-child(2) {
+  animation-delay: -6s;
+}
+
+section.card ul.lineup li.artist-name:nth-child(3) {
+  animation-delay: -9s;
+}
+
+section.card ul.lineup li.artist-name:nth-child(4) {
+  animation-delay: -12s;
+}
+
+section.card ul.lineup li.artist-name:nth-child(5) {
+  animation-delay: -15s;
+}
+
+section.card ul.lineup li.artist-name:nth-child(6) {
+  animation-delay: -18s;
+}
+
+section.card ul.lineup li.artist-name:nth-child(7) {
+  animation-delay: -21s;
+}
+
+section.card ul.lineup li.artist-name:nth-child(8) {
+  animation-delay: -24s;
+}
+
+section.card ul.lineup li.artist-name:nth-child(9) {
+  animation-delay: -27s;
+}
+
+section.card ul.lineup li.artist-name:nth-child(10) {
+  animation-delay: -30s;
+}
+
+section.card ul.lineup li.artist-link {
+  color: #eee;
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 12px;
+  border-bottom: 2px solid #eee;
+  border-top: 2px solid #eee;
+  display: inline-block;
+  padding: 10px;
+  width: auto;
+}
