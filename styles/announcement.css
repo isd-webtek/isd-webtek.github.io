@@ -1,0 +1,13 @@
+p#announcement {
+
+}
+
+p#announcement span.color-highlighted {
+  animation: background-colors 30s linear infinite alternate;
+}
+
+p#announcement span.subtext {
+  display: block;
+  font: 16px monospace;
+  padding: 10px 0;
+}

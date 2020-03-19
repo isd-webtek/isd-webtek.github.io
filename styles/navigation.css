@@ -1,0 +1,55 @@
+#navigation {
+  background-color: transparent !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  margin: 0 !important;
+}
+
+#navigation label {
+  border-color:  #eee !important;
+  border-style: solid;
+  border-width: 1px 0 2px 0 !important;
+  margin: .5em 0;
+  width: 176px;
+  display: inline-block;
+  color: #eee;
+  cursor: pointer;
+  padding: 12px;
+  text-align: center;
+  font-size: 16px;
+}
+
+#navigation input:checked + label {
+  color: #aaa;
+  font-weight: 900;
+}
+
+#navigation > .navigation-views {
+  max-width: 65em;
+}
+
+#navigation > input[type="radio"] {
+  left: -200vw;
+  position: absolute;
+}
+
+#navigation > .navigation-views > .navigation-view {
+  display: none;
+}
+
+#navigation > .navigation-views > .navigation-view > h4 {
+  border-bottom-width: 2px;
+  border-top: 2px solid #eee;
+  display: inline-block;
+  font-family: arial;
+  padding: 12px;
+}
+
+#navigation > input:first-child:checked ~ .navigation-views > .navigation-view:first-child,
+#navigation > input:nth-child(3):checked ~ .navigation-views > .navigation-view:nth-child(2),
+#navigation > input:nth-child(5):checked ~ .navigation-views > .navigation-view:nth-child(3),
+#navigation > input:nth-child(7):checked ~ .navigation-views > .navigation-view:nth-child(4),
+#navigation > input:nth-child(9):checked ~ .navigation-views > .navigation-view:nth-child(5),
+#navigation > input:nth-child(11):checked ~ .navigation-views > .navigation-view:nth-child(6) {
+  display: block;
+}
