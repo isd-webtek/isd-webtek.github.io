@@ -55,6 +55,5 @@ section.txy-topicbar > label:hover {
 }
 
 section.txy-topicbar > input:checked + label {
-  animation: background-colors 600s linear infinite alternate;
-  background-color: transparent !important;
+  animation: background-colors 60s linear infinite alternate;
 }

@@ -5,307 +5,205 @@
 
 @keyframes background-colors {
   0% {
-    background-color: #f44336;
     color: #f44336;
-    border-color: #f44336;
   }
 
   2% {
-    background-color: #d32f2f;
     color: #d32f2f;
-    border-color: #d32f2f;
   }
 
   4% {
-    background-color: #b71c1c;
     color: #b71c1c;
-    border-color: #b71c1c;
   }
 
   6% {
-    background-color: #e91e63;
     color: #e91e63;
-    border-color: #e91e63;
   }
 
   8% {
-    background-color: #c2185b;
     color: #c2185b;
-    border-color: #c2185b;
   }
 
   10% {
-    background-color: #880e4f;
     color: #880e4f;
-    border-color: #880e4f;
   }
 
   12% {
-    background-color: #9c27b0;
     color: #9c27b0;
-    border-color: #9c27b0;
   }
 
   14% {
-    background-color: #7b1fa2;
     color: #7b1fa2;
-    border-color: #7b1fa2;
   }
 
   16% {
-    background-color: #4a148c;
     color: #4a148c;
-    border-color: #4a148c;
   }
 
   18% {
-    background-color: #673ab7;
     color: #673ab7;
-    border-color: #673ab7;
   }
 
   20% {
-    background-color: #512da8;
     color: #512da8;
-    border-color: #512da8;
   }
   22% {
-    background-color: #311b92;
     color: #311b92;
-    border-color: #311b92;
   }
 
   24% {
-    background-color: #3f51b5;
     color: #3f51b5;
-    border-color: #3f51b5;
   }
 
   26% {
-    background-color: #303f9f;
     color: #303f9f;
-    border-color: #303f9f;
   }
 
   28% {
-    background-color: #1a237e;
     color: #1a237e;
-    border-color: #1a237e;
   }
 
   30% {
-    background-color: #2196f3;
     color: #2196f3;
-    border-color: #2196f3;
   }
 
   32% {
-    background-color: #1976d2;
     color: #1976d2;
-    border-color: #1976d2;
   }
 
   34% {
-    background-color: #0d47a1;
     color: #0d47a1;
-    border-color: #0d47a1;
   }
 
   36% {
-    background-color: #03a9f4;
     color: #03a9f4;
-    border-color: #03a9f4;
   }
 
   38% {
-    background-color: #0288d1;
     color: #0288d1;
-    border-color: #0288d1;
   }
 
   40% {
-    background-color: #01579b;
     color: #01579b;
-    border-color: #01579b;
   }
 
   42% {
-    background-color: #00bcd4;
     color: #00bcd4;
-    border-color: #00bcd4;
   }
 
   44% {
-    background-color: #0097a7;
     color: #0097a7;
-    border-color: #0097a7;
   }
 
   46% {
-    background-color: #006064;
     color: #006064;
-    border-color: #006064;
   }
 
   48% {
-    background-color: #009688;
     color: #009688;
-    border-color: #009688;
   }
 
   50% {
-    background-color: #00796b;
     color: #00796b;
-    border-color: #00796b;
   }
 
   52% {
-    background-color: #004d40;
     color: #004d40;
-    border-color: #004d40;
   }
 
   54% {
-    background-color: #4caf50;
     color: #4caf50;
-    border-color: #4caf50;
   }
 
   56% {
-    background-color: #388e3c;
     color: #388e3c;
-    border-color: #388e3c;
   }
 
   58% {
-    background-color: #1b5e20;
     color: #1b5e20;
-    border-color: #1b5e20;
   }
 
   60% {
-    background-color: #8bc34a;
     color: #8bc34a;
-    border-color: #8bc34a;
   }
 
   62% {
-    background-color: #689f38;
     color: #689f38;
-    border-color: #689f38;
   }
 
   64% {
-    background-color: #33691e;
     color: #33691e;
-    border-color: #33691e;
   }
   66% {
-    background-color: #cddc39;
     color: #cddc39;
-    border-color: #cddc39;
   }
 
   68% {
-    background-color: #afb42b;
     color: #afb42b;
-    border-color: #afb42b;
   }
 
   70% {
-    background-color: #827717;
     color: #827717;
-    border-color: #827717;
   }
 
   72% {
-    background-color: #ffeb3b;
     color: #ffeb3b;
-    border-color: #ffeb3b;
   }
 
   74% {
-    background-color: #fbc02d;
     color: #fbc02d;
-    border-color: #fbc02d;
   }
 
   76% {
-    background-color: #f57f17;
     color: #f57f17;
-    border-color: #f57f17;
   }
 
   78% {
-    background-color: #ffc107;
     color: #ffc107;
-    border-color: #ffc107;
   }
 
   80% {
-    background-color: #ffa000;
     color: #ffa000;
-    border-color: #ffa000;
   }
 
   82% {
-    background-color: #ff6f00;
     color: #ff6f00;
-    border-color: #ff6f00;
   }
 
   84% {
-    background-color: #ff9800;
     color: #ff9800;
-    border-color: #ff9800;
   }
 
   86% {
-    background-color: #f57c00;
     color: #f57c00;
-    border-color: #f57c00;
   }
 
   88% {
-    background-color: #e65100;
     color: #e65100;
-    border-color: #e65100;
   }
 
   90% {
-    background-color: #ff5722;
     color: #ff5722;
-    border-color: #ff5722;
   }
 
   92% {
-    background-color: #e64a19;
     color: #e64a19;
-    border-color: #e64a19;
   }
 
   94% {
-    background-color: #bf360c;
     color: #bf360c;
-    border-color: #bf360c;
   }
 
   96% {
-    background-color: #795548;
     color: #795548;
-    border-color: #795548;
   }
 
   98% {
-    background-color: #5d4037;
     color: #5d4037;
-    border-color: #5d4037;
   }
 
   100% {
-    background-color: #3e2723;
     color: #3e2723;
-    border-color: #3e2723;
   }
 
 }
@@ -326,16 +224,13 @@ body {
 }
 
 header {
-  color: #eee;
   animation: background-colors 1000s linear infinite alternate;
   margin: 0;
   padding: 5px;
-  border-bottom: 5px solid #eee !important;
   text-align: center;
 }
 
 h1 {
-  color: #eee !important;
   border-radius: 5px;
   font: 60px "M3TALB0X";
   margin: 5px 10px 2.5px 10px;
@@ -346,11 +241,17 @@ h1 {
   text-transform: uppercase;
 }
 
+h1 a {
+  animation: background-colors 1000s linear !important;
+}
+
 section.card {
   color: #eee;
   display: block;
   font-family: arial;
   text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 section.card h3 {
@@ -380,7 +281,6 @@ section.card a.card-link {
 
 section.card ul.card-artists {
   font: 14px arial;
-  margin-bottom: 50px;
   background-color: rgba(0, 0, 0, 0.75); 
 }
 
@@ -402,7 +302,7 @@ section.card ul.card-artists {
 section.card ul.card-artists li.artist-name {
   font-size: 40px;
   padding: 10px 0;
-  animation: background-colors 600s linear infinite alternate;
+  animation: background-colors 30s linear infinite alternate;
   background-color: transparent !important;
 }
 
