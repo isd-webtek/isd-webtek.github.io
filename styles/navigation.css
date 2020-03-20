@@ -9,14 +9,13 @@
   border-color:  #eee !important;
   border-style: solid;
   border-width: 1px 0 2px 0 !important;
-  margin: .5em 0;
-  width: 126px;
+  width: 96px;
   display: inline-block;
   color: #eee;
   cursor: pointer;
   padding: 12px;
   text-align: center;
-  font-size: 12px;
+  font-size: 10px;
 }
 
 #navigation input:checked + label {
@@ -31,6 +30,7 @@
 
 #navigation > .navigation-views > .navigation-view {
   display: none;
+  position: relative;
 }
 
 #navigation > .navigation-views > .navigation-view > h4 {
