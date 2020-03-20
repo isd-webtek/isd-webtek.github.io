@@ -239,6 +239,11 @@ section.card h3 {
   text-align: center;
 }
 
+#youtube {
+  border-top: 1px solid #fff;
+  margin-top: 10px;
+}
+
 section.card iframe {
   margin: 0 auto;
 }
@@ -299,11 +304,6 @@ a:visited,
 a:hover,
 a:active {
   color: #eee;
-}
-
-twitter-widget {
-  width: 560px;
-  margin: 0 auto;
 }
 
 #txytab-artists {
