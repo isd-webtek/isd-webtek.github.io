@@ -15,7 +15,7 @@
   cursor: pointer;
   padding: 12px;
   text-align: center;
-  font-size: 10px;
+  font-size: 9px;
 }
 
 #navigation input:checked + label {
